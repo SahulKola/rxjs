@@ -1,3 +1,3 @@
 # Hello World
 ---
-- [Link to index.html}('./index.html')
+- [Link to index.html]('./index.html')
